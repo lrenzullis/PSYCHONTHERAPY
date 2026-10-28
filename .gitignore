@@ -1,0 +1,22 @@
+# Local virtual environments and credentials
+.venv/
+.env
+.env.*
+!.env.example
+
+# Python build and test artifacts
+__pycache__/
+*.py[cod]
+*.egg-info/
+.pytest_cache/
+.coverage
+build/
+dist/
+
+# All experiment outputs (raw XML, manifests, CSV)
+data/runs/
+
+# OS / editor files
+.DS_Store
+.vscode/
+.idea/

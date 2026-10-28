@@ -1,0 +1,27 @@
+[build-system]
+requires = ["setuptools>=68"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "pubmed-phase-a"
+version = "0.1.0"
+description = "Reproducible Phase A PubMed publication/author/affiliation extraction experiment"
+readme = "README.md"
+requires-python = ">=3.11"
+dependencies = [
+    "requests>=2.31,<3",
+]
+
+[project.optional-dependencies]
+dev = [
+    "pytest>=8,<10",
+]
+
+[project.scripts]
+pubmed-phase-a = "pubmed_phase_a.cli:main"
+
+[tool.setuptools.packages.find]
+where = ["src"]
+
+[tool.pytest.ini_options]
+testpaths = ["tests"]

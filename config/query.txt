@@ -1,0 +1,7 @@
+(
+  "Psychoanalysis"[MeSH Terms]
+  OR "Psychoanalytic Theory"[MeSH Terms]
+  OR psychoanal*[Title/Abstract]
+  OR psicoanal*[Title/Abstract]
+  OR psicanal*[Title/Abstract]
+)

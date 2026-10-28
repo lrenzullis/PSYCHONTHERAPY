@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PubmedArticleSet>
+  <PubmedArticle>
+    <MedlineCitation>
+      <PMID>90000001</PMID>
+      <Article>
+        <Journal><JournalIssue><PubDate><Year>2024</Year><Month>Dec</Month><Day>05</Day></PubDate></JournalIssue><Title>Fictional Journal of Psychology</Title><ISOAbbreviation>Fict J Psychol</ISOAbbreviation></Journal>
+        <ArticleTitle>Psychoanalysis and <i>clinical</i> reasoning: a demonstration</ArticleTitle>
+        <Language>eng</Language>
+        <PublicationTypeList><PublicationType>Journal Article</PublicationType></PublicationTypeList>
+        <AuthorList>
+          <Author ValidYN="Y">
+            <LastName>Silva</LastName><ForeName>Maria Clara</ForeName><Initials>MC</Initials>
+            <Identifier Source="ORCID">https://orcid.org/0000-0000-0000-0001</Identifier>
+            <AffiliationInfo><Affiliation>Department of Psychology, Example University, Sao Paulo, Brazil.</Affiliation><Identifier Source="ROR">https://ror.org/example01</Identifier></AffiliationInfo>
+            <AffiliationInfo><Affiliation>Institute of Clinical Research, Porto Alegre, Brazil.</Affiliation></AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Torres</LastName><ForeName>Jose</ForeName><Initials>J</Initials>
+            <AffiliationInfo><Affiliation>Research Clinic, Buenos Aires, Argentina.</Affiliation></AffiliationInfo>
+          </Author>
+          <Author><LastName>Smith</LastName><ForeName>Eva</ForeName><Initials>E</Initials></Author>
+        </AuthorList>
+      </Article>
+    </MedlineCitation>
+    <PubmedData><ArticleIdList><ArticleId IdType="doi">10.0000/example.001</ArticleId><ArticleId IdType="pmc">PMC90000001</ArticleId></ArticleIdList></PubmedData>
+  </PubmedArticle>
+  <PubmedArticle>
+    <MedlineCitation>
+      <PMID>90000002</PMID>
+      <Article>
+        <Journal><JournalIssue><PubDate><MedlineDate>2019 Jan-Feb</MedlineDate></PubDate></JournalIssue><Title>Imaginary Psychoanalytic Studies</Title></Journal>
+        <ArticleTitle>Psicoanalisis en instituciones: un articulo de ejemplo</ArticleTitle>
+        <Language>spa</Language>
+        <AuthorList>
+          <Author><CollectiveName>Demonstration Research Consortium</CollectiveName></Author>
+          <Author><LastName>Lopez</LastName><ForeName>Ana</ForeName><Initials>A</Initials>
+            <AffiliationInfo><Affiliation>Universidad Ejemplo, Bogota, Colombia.</Affiliation></AffiliationInfo>
+            <AffiliationInfo><Affiliation>Universidad Ejemplo, Bogota, Colombia.</Affiliation></AffiliationInfo>
+          </Author>
+        </AuthorList>
+        <ELocationID EIdType="doi">10.0000/example.002</ELocationID>
+      </Article>
+    </MedlineCitation>
+  </PubmedArticle>
+</PubmedArticleSet>
